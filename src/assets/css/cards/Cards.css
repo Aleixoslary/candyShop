@@ -1,0 +1,32 @@
+.cardImg{
+    width: 15vw;
+    height: 15vw;
+    padding-top: 3vw;
+}
+
+.cardsBox{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    line-height: 2vw;
+}
+.cardBtn{
+    border:none;
+    background-color: #0000;
+    border: 2px solid black;
+    padding:  1vw 2vw 1vw 2vw;
+    font-size: 1em;
+    margin-top: 2vw;
+}
+
+.cardBtn:hover{
+    background-color:#EE4794;
+    color:white;
+    border: none;
+}
