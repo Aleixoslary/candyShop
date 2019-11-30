@@ -2,12 +2,12 @@ import React from 'react';
 // import logo from './logo.svg';
 // import './App.css';
 
-function Home() {
+function Shop() {
   return (
-    <div className="Home">
-      <h1>HOME</h1>
+    <div className="Shop">
+      <h1>Shop</h1>
     </div>
   );
 }
 
-export default Home;
+export default Shop;
